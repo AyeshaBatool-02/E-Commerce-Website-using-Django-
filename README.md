@@ -72,9 +72,11 @@ Django MVT (Model – View – Template)
  ⚙️ Development Process
 
 The project was built following these main steps:
+
  1️⃣ Project Planning
 
 Defined the project scope and identified the main components such as products, reviews, and contact system.
+
  2️⃣ Database Design
 
 Created Django models for:
@@ -96,6 +98,7 @@ Implemented Django views to:
 4️⃣ Frontend Development
 
 Created templates using **HTML, CSS, and Django Template Language (DTL)** to render dynamic content.
+
  5️⃣ Testing
 
 Manually tested the application to ensure:
@@ -144,8 +147,6 @@ Follow these steps to run the project locally.
 git clone https://github.com/AyeshaBatool-02/E-Commerce-Website-using-Django-.git
 
 2️⃣ Navigate to the Project Folder
-
-
 cd your-repository-name
 3️⃣ Install Dependencies
 
@@ -155,9 +156,10 @@ pip install -r requirements.txt
 
 python manage.py migrate
 
- 5️⃣ Start the Development Server
+5️⃣ Start the Development Server
 
 python manage.py runserver
+
 6️⃣ Open in Browser
 
 http://127.0.0.1:8000
